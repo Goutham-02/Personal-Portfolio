@@ -15,9 +15,9 @@ export default function About() {
               />
             </div>
             
-            <div className="space-y-6 text-gray-300">
+            <div className="space-y-6 text-gray-300 text-sm">
               <p className="leading-relaxed">
-              I am a motivated Computer Science student skilled in C++, Python, and web development with the MERN stack. With strong foundations in DSA, OOPS, database management, and control systems, I excel at solving complex problems. My projects include a gesture-detection-based home automation system and balancing robots using control systems and CoppeliaSim. I participated in the prestigious e-Yantra Robotics Competition, honing my robotics and teamwork skills. Outside academics, I enjoy playing table tennis, which enhances my focus and agility.
+              I am a passionate and motivated Computer Science student skilled in Java, C++, Python, and web development using the MERN stack. With a strong foundation in DSA, OOPS, database management, and control systems, I excel at solving complex problems. My projects include a gesture-detection-based home automation system and balancing robots in ROS2 and CoppeliaSim. I am also an active participant in the prestigious e-Yantra Robotics Competition, where I am honing my skills in robotics and control systems while solving real-world challenges. Outside academics, I enjoy playing table tennis, a sport that sharpens my focus and reflexes, which I apply to my problem-solving approach and technical endeavors. I strive to combine innovation and teamwork to deliver impactful solutions.
               </p>
               
               <div className="grid gap-4 sm:grid-cols-2">
