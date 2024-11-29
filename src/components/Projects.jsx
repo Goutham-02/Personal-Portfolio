@@ -51,7 +51,7 @@ export default function Projects() {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     {projects.map((project, index) => (
                         <a href={project.link} target='_blank'>
-                            <Card key={index} className="transition bg-gray-800 border-zinc-700 hover:shadow-2xl hover:-translate-y-1 hover:scale-105">
+                            <Card key={index} className="transition bg-gray-800 border-zinc-700 hover:shadow-2xl hover:-translate-y-1 hover:scale-105 hover:bg-gray-700">
                                 <CardContent>
                                     <h3 className="text-xl font-semibold text-rose-500 mb-1">
                                         {project.title}

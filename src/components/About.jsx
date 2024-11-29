@@ -4,7 +4,10 @@ export default function About() {
     return (
       <div className="min-h-screen bg-gray-900 p-8">
         <div className="mx-auto max-w-4xl">
-          <h1 className="mb-8 text-center text-4xl font-bold text-white">About Me</h1>
+        <div className="text-center mb-12">
+                    <h2 className="text-4xl font-bold text-white mb-2">About Me</h2>
+                    <div className="w-16 h-1 bg-rose-500 mx-auto"></div>
+                </div>
           
           <div className="mb-12 grid gap-8 md:grid-cols-[300px,1fr]">
             <div className="aspect-square overflow-hidden rounded-lg bg-gray-800">
