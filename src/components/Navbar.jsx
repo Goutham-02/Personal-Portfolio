@@ -39,7 +39,7 @@ const Navbar = () => {
               <Link to="/contact" className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-red-700 md:p-0 dark:text-white md:dark:hover:text-red-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact</Link>
             </li>
             <li className="flex items-center">
-              <a href="https://drive.google.com/file/d/1m8TVg2i4axEG9IIhkmms4SUh1lpNlGW-/view?usp=sharing" target="_blank">
+              <a href="https://drive.google.com/file/d/1Tg2Qyi08U480fcinur6gfA56fL1O6WaO/view?usp=sharing" target="_blank">
                 <button type="button" className="text-white bg-red-700 hover:bg-red-800 focus:ring-4 focus:ring-red-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-red-600 dark:hover:bg-red-700 focus:outline-none dark:focus:ring-red-800">Resume</button>
               </a>
             </li>
