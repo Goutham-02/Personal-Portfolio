@@ -1,4 +1,3 @@
-import React from 'react'
 import { FaGithub, FaLinkedin, FaInstagram } from 'react-icons/fa'
 import { SiGmail } from "react-icons/si";
 import { MdCall } from "react-icons/md";
@@ -31,7 +30,7 @@ const Contact = () => {
                         <FaLinkedin className="w-6 h-6" />
                         <span className="sr-only">LinkedIn Profile</span>
                     </a>
-                    <a href="https://www.instagram.com/goutham_shastry/" target="_balnk" ClassName="text-zinc-300 hover:text-white transition-colors">
+                    <a href="https://www.instagram.com/goutham_shastry/" target="_balnk" className="text-zinc-300 hover:text-white transition-colors">
                         <FaInstagram className="w-6 h-6" />
                         <span className="sr-only">Instagram Profile</span>
                     </a>

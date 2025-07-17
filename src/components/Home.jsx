@@ -1,4 +1,3 @@
-import React from 'react'
 import pic from '../assets/pic.png';
 
 const Home = () => {
